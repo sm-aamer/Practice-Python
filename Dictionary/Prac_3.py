@@ -1,0 +1,6 @@
+s = set()
+s.add(50)
+s.add(5.35)
+s.add("20")
+print(s)
+print(len(s))
